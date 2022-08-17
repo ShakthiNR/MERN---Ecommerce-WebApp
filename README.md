@@ -5,9 +5,9 @@
 - Authentication and Authorization is implemented in this Web App
 - Login/Sign Up implemented for following two users
 
-# Admin - to create category and products under category
+1. Admin - to create category and products under category
           to manage (update/delete) category / products
-# User  - to view the products and add to cart and buy it using Brain Tree portal
+2. User  - to view the products and add to cart and buy it using Brain Tree portal
 
 Note: 
   Have restricted routes for admin to access the admin page
