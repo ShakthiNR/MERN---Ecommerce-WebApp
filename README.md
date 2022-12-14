@@ -21,5 +21,5 @@ Build using following techStacks:
           Brain Tree - for payment portal
          
 Link to use:
-      https://tshirt-store-mern-app-shakthi.herokuapp.com/
+      https://zany-teal-swordfish-fez.cyclic.app/
 
