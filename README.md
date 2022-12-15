@@ -26,5 +26,6 @@ Link to use:
       
 **Working Sample**
 
-https://im2.ezgif.com/tmp/ezgif-2-cc158e21f5.gif
 
+
+![MERN-Ecommerce](https://user-images.githubusercontent.com/111413484/207907014-1f78d72d-3c15-44d3-84bc-6e4195c6bc2d.gif)
