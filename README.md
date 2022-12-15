@@ -22,4 +22,9 @@ Build using following techStacks:
          
 Link to use:
       https://ecommerce-mern-shakthi.cyclic.app/
+      
+      
+**Working Sample**
+
+https://im2.ezgif.com/tmp/ezgif-2-cc158e21f5.gif
 
